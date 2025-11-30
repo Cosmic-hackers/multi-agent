@@ -1,0 +1,5 @@
+{
+  "name": "multi-agent",
+  "description": "A production-ready Multi-Agent Research & Learning Assistant interface powered by the Gemini API, featuring specialized agents for research, critique, and learning path generation.",
+  "requestFramePermissions": []
+}
